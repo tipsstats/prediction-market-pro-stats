@@ -1,0 +1,14 @@
+as_of_utc,metric,value
+2026-10-02T16:41:43Z,public_prediction_market_accounts_analysed,791417
+2026-10-02T16:41:43Z,accounts_polymarket,603716
+2026-10-02T16:41:43Z,accounts_kalshi,184414
+2026-10-02T16:41:43Z,accounts_sx,3287
+2026-10-02T16:41:43Z,profitable_pros_listed,11733
+2026-10-02T16:41:43Z,profitable_pros_share_pct,1.48
+2026-10-02T16:41:43Z,profitable_pros_combined_pnl_usd,127730404
+2026-10-02T16:41:43Z,pro_predictions_tracked_total,3305542
+2026-10-02T16:41:43Z,pro_predictions_last_30d,726176
+2026-10-02T16:41:43Z,pro_predictions_settled_last_30d,691466
+2026-10-02T16:41:43Z,matches_covered,82161
+2026-10-02T16:41:43Z,competitions_listed,197
+2026-10-02T16:41:43Z,first_prediction_date,2024-04-25
