@@ -5,7 +5,6 @@ as_of_utc,metric,value
 2026-10-02T16:41:43Z,accounts_sx,3287
 2026-10-02T16:41:43Z,profitable_pros_listed,11733
 2026-10-02T16:41:43Z,profitable_pros_share_pct,1.48
-2026-10-02T16:41:43Z,profitable_pros_combined_pnl_usd,127730404
 2026-10-02T16:41:43Z,pro_predictions_tracked_total,3305542
 2026-10-02T16:41:43Z,pro_predictions_last_30d,726176
 2026-10-02T16:41:43Z,pro_predictions_settled_last_30d,691466
