@@ -25,7 +25,7 @@ configs:
 
 Weekly aggregate statistics on sports prediction markets, compiled by [SG Tips (sg.tips)](https://sg.tips/) from public data on Polymarket, Kalshi and SX.
 
-Latest snapshot: 2026-w40 (data as of 2026-10-02T16:41:43Z).
+Latest snapshot: 2026-w41 (data as of 2026-10-05T02:41:03Z).
 
 ## Files
 
