@@ -5,9 +5,9 @@ as_of_utc,metric,value
 2026-10-21T10:05:09Z,accounts_sx,3569
 2026-10-21T10:05:09Z,profitable_pros_listed,9960
 2026-10-21T10:05:09Z,profitable_pros_share_pct,1.24
-2026-10-21T10:05:09Z,pro_predictions_tracked_total,7184019
-2026-10-21T10:05:09Z,pro_predictions_last_30d,1780376
-2026-10-21T10:05:09Z,pro_predictions_settled_last_30d,1733580
-2026-10-21T10:05:09Z,matches_covered,100767
-2026-10-21T10:05:09Z,competitions_listed,357
+2026-10-21T10:05:09Z,pro_predictions_tracked_total,8058309
+2026-10-21T10:05:09Z,pro_predictions_last_30d,2407774
+2026-10-21T10:05:09Z,pro_predictions_settled_last_30d,2344240
+2026-10-21T10:05:09Z,matches_covered,104609
+2026-10-21T10:05:09Z,competitions_listed,362
 2026-10-21T10:05:09Z,first_prediction_date,2024-08-16
